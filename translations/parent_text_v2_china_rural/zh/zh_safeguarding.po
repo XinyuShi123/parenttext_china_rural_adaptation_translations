@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: 652eb1a39a0f8681c408f40296bb88b4\n"
+"X-Crowdin-Project-ID: 3\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/translations/parent_text_v2_china/en/safeguarding.pot\n"
+"X-Crowdin-File-ID: 254\n"
+"Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
+"Language-Team: Chinese Simplified\n"
+"\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-03-29 08:36\n"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to go back to the previous messages?"
+msgstr "你想回到之前的消息吗？"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. Type {HELP} at any time if you would like the details of emergency services or other hotlines."
+msgstr "如果你需要帮助，请随时输入{HELP}。\n"
+"\n"
+"你的一切信息将被严格保密！"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "抱歉，我不明白你的意思。"
+
+#. type=text
+msgctxt "text"
+msgid "Here are the contact details of your local emergency services:"
+msgstr "以下是应急求助电话，及应急指南："
+
+#. type=text
+msgctxt "text"
+msgid "{generic referrals}"
+msgstr " {generic referrals} "
+
+#. type=text
+msgctxt "text"
+msgid "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+msgstr "如果你需要紧急求助，请随时输入 {HELP} 。你的一切信息将被保密！"
+
+#. type=text
+msgctxt "text"
+msgid "If you ever feel like talking privately to a trained professional, you can call:"
+msgstr "如果想要专业人员私下交谈，请及时拨打以下热线："
+
+#. type=text
+msgctxt "text"
+msgid "{mental_health referrals}"
+msgstr " {mental_health referrals} "
+
+#. type=text
+msgctxt "text"
+msgid "Here are the contact details of your local medical services:"
+msgstr "以下是卫生健康服务的信息和联系方式："
+
+#. type=text
+msgctxt "text"
+msgid "{health referrals}"
+msgstr " {health referrals} "
+
+#. type=text
+msgctxt "text"
+msgid "{violence referrals}"
+msgstr " {violence referrals} "
+
+#. type=text
+msgctxt "text"
+msgid "Are you currently facing an emergency?"
+msgstr "你是否遇到紧急情况？"
+
+#. type=text
+msgctxt "text"
+msgid "Do you need some support with an emotional issue?"
+msgstr "你是否需要情绪（心理）方面的支持？"
+
+#. type=text
+msgctxt "text"
+msgid "Are you currently experiencing a health issue?"
+msgstr "你是否遇到健康问题？"
+
+#. type=text
+msgctxt "text"
+msgid "Are you experiencing an unsafe situation?"
+msgstr "你的人身安全是否受到威胁？"
+
+#. type=text
+msgctxt "text"
+msgid "It looks like you are facing an emergency. Can you please tell us what kind of assistance you need?"
+msgstr "你需要什么样的帮助?"
+
+#. type=text
+msgctxt "text"
+msgid "{development resources 1}"
+msgstr " {development resources 1} "
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do?"
+msgstr "你想做点什么呢？"
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful! You can access this information at any time by typing {HELP}."
+msgstr ""
+"希望你找到了想要的信息！\n"
+"你可以随时输入 {HELP} ，来获取这些资源。"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I dont' understand what you mean."
+msgstr "抱歉，我不明白你的意思。"
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back to ParentText!"
+msgstr "欢迎回到“科育时光”！"
+
+#. type=text
+msgctxt "text"
+msgid "I don't understand your message."
+msgstr "我不明白你的意思。"
+
+#. type=text
+msgctxt "text"
+msgid "Please type {MENU} to access resources and review completed modules, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources for a crisis."
+msgstr "请输入 {MENU} ，获取更多资源，或回顾已完成的课程。\n"
+"\n"
+"输入 {PLAY} ，获取亲子活动建议。\n"
+"\n"
+"输入 {HELP} ，帮你应对紧急情况。"
+
+#. type=text
+msgctxt "text"
+msgid "You have not given consent to participate in this programme. Would you like to participate?"
+msgstr "你尚未同意参加此项目。你愿意参加吗？"
+
+#. type=text
+msgctxt "text"
+msgid "If you ever decide to participate in the programme, type {START}. "
+msgstr "如果你之后想回到“科育时光”，请输入 {START} 。"
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
+msgstr "希望不久的将来，能再次见到你！祝你度过快乐祥和的一天。"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Parenting is hard. ParentText may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
+msgstr "育儿责任重大，但却不是件容易的事。“科育时光”将为你提供支持。\n"
+"\n"
+"你已经完成了 @fields.n_goals_prog 个目标模块中的 @fields.n_goals_completed 个。\n"
+"\n"
+"你想继续吗？"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. If you ever decide to come back, type {START}. "
+msgstr "没关系。如果你之后想回到“科育时光”，请输入 {START} 。"
+
+#. type=text
+msgctxt "text"
+msgid "You are already part of ParentText! "
+msgstr "你已经是“科育时光”大家庭中的一份子了！"
+
+#. type=text
+msgctxt "text"
+msgid "You have already completed ParentText!"
+msgstr "你已经完成了“科育时光”的全部课程！"
+
+#. type=text
+msgctxt "text"
+msgid "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?"
+msgstr "“科育时光”能为你提供最科学、系统的养育知识和技巧，有益于提升亲子关系，促进儿童发展。你确定要退出吗？"
+
+#. type=text
+msgctxt "text"
+msgid "If you do not want to receive any more messages, please type \"EXIT\"."
+msgstr "如果你决定退出，请输入“退出”。"
+
+#. type=text
+msgctxt "text"
+msgid "If you made a mistake, please type \"BACK\"."
+msgstr "如果希望继续使用“科育时光”，请输入“返回”。"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for participating. If you want to return to the programme, type {START}. "
+msgstr "如果你想回到“科育时光”，请输入 {START} 。"
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon!"
+msgstr "谢谢你的参与，希望不久的将来，能再次见到你！"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry I don't understand what you mean."
+msgstr "抱歉，我不明白你的意思。"
+
+#. type=text
+msgctxt "text"
+msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgstr "注册成功后才可使用菜单。\n"
+"\n"
+"马上就要完成注册了，请继续填写！"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for taking a pause with me today. "
+msgstr "谢谢你和我们一起放慢节奏。"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your research ID is @fields.research_id"
+msgstr "你的ID是 @fields.research_id "
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr "是"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr "否"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Emergency Contacts and Services"
+msgstr "紧急联系和服务"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Medical Information and Services"
+msgstr "卫生健康信息和服务"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Mental health services"
+msgstr "心理健康服务"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Violence prevention hotline"
+msgstr "预防暴力"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Suicide prevention hotline"
+msgstr "预防自杀"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Child Development"
+msgstr "儿童发展"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get other emergency contacts"
+msgstr "获取其它帮助"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to the Main Menu"
+msgstr "返回主菜单"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit menu"
+msgstr "退出菜单"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "BACK"
+msgstr "返回"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "generic"
+msgstr "通用"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental_health"
+msgstr "心理健康"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "health"
+msgstr "健康"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "violence"
+msgstr "暴力"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "help"
+msgstr "帮助"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "menu"
+msgstr "菜单"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "play"
+msgstr "游戏"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "grow"
+msgstr "成长"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop"
+msgstr "停止"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start"
+msgstr "开始"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review"
+msgstr "回顾"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "pause"
+msgstr "放慢节奏"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "id"
+msgstr "ID"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "rejoin"
+msgstr "重新加入“科育时光”"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep"
+msgstr "是"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope nah"
+msgstr "否"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "否"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "emergency contacts and services"
+msgstr "紧急联系和服务"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "medical information and services"
+msgstr "卫生健康信息和服务"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental health services"
+msgstr "心理健康服务"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "violence prevention hotline"
+msgstr "预防暴力"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "suicide prevention hotline"
+msgstr "预防自杀"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "child development"
+msgstr "儿童发展"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get other emergency contacts"
+msgstr "获取其它帮助"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go to the main menu"
+msgstr "返回主菜单"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit menu"
+msgstr "退出菜单"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no nope n"
+msgstr "否"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr "退出"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "back"
+msgstr "返回"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "余北学"
+msgstr "余北学"
+

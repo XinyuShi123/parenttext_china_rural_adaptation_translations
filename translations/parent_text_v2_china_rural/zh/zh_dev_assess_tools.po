@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: 652eb1a39a0f8681c408f40296bb88b4\n"
+"X-Crowdin-Project-ID: 3\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/translations/parent_text_v2_china/en/dev_assess_tools.pot\n"
+"X-Crowdin-File-ID: 234\n"
+"Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
+"Language-Team: Chinese Simplified\n"
+"\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-02-08 13:13\n"
+
+#. type=text
+msgctxt "text"
+msgid "Each child grows and learns in their own way. This tool can help you learn what activities your child can do."
+msgstr "每个儿童都有自己独特的成长和学习进程，以下问题能帮你了解孩子目前的情况。"
+
+#. type=text
+msgctxt "text"
+msgid "Does your child have difficulty seeing or hearing sounds like peoples’ voices or music, even with glasses or hearing aids?"
+msgstr "（即使戴眼镜或使用助听器时）你的孩子看东西或听声音，比如听其他人说话或听音乐，是否有困难？"
+
+#. type=text
+msgctxt "text"
+msgid "It seems like you're worried about your child's eyesight or hearing, and you might need to seek advice from an expert."
+msgstr "看起来你有点担心孩子的视力或听力，请及时寻求专家（如村医、医院医生、卫生站医生）的意见。"
+
+#. type=text
+msgctxt "text"
+msgid "Here are some resources that might help"
+msgstr "这里有些资源，也许对你有帮助："
+
+#. type=text
+msgctxt "text"
+msgid "{development resources 1}"
+msgstr " {development resources 1} "
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I dont' understand what you mean."
+msgstr "抱歉，我没有理解你的意思。"
+
+#. type=text
+msgctxt "text"
+msgid "Compared with children of the same age, does your child have difficulty walking?"
+msgstr "与同龄儿童相比，你的孩子正常行走是否有困难？"
+
+#. type=text
+msgctxt "text"
+msgid "It seems like you're worried about your child's ability to move around, and you might need to seek advice from an expert."
+msgstr "看起来你有点担心孩子的行走能力，也许可以听听专家的意见。"
+
+#. type=text
+msgctxt "text"
+msgid "Does your child have difficulty with self-care such as feeding or dressing him/herself?"
+msgstr "你的孩子在吃饭或穿衣等生活自理方面是否有困难？"
+
+#. type=text
+msgctxt "text"
+msgid "It seems like you are concerned about your child's ability to take care of themselves, and you might need to seek advice from an expert."
+msgstr "看起来你有点担心孩子的生活自理能力，请及时寻求专家（如村医、医院医生、卫生站医生）的意见。
+"
+
+#. type=text
+msgctxt "text"
+msgid "Does your child have difficulty being understood by others?"
+msgstr "你孩子说的话，其他人理解起来是否有困难？"
+
+#. type=text
+msgctxt "text"
+msgid "It seems like you're worried about how your child communicates, and you might need to seek advice from an expert."
+msgstr "看起来你有点担心孩子的沟通能力，请及时寻求专家（如村医、医院医生、卫生站医生）的意见。"
+
+#. type=text
+msgctxt "text"
+msgid "Does your child have difficulty learning or remembering things, focusing on an activity that he or she enjoys doing, or accepting changes in his or her routine?"
+msgstr "你孩子在学习新事物、记住事物、集中注意力去做自己喜欢的事情，或接受日常生活习惯的变化等方面，是否有困难？"
+
+#. type=text
+msgctxt "text"
+msgid "It seems like you're worried about how your child is able to think or understand things, and you might need to seek advice from an expert."
+msgstr "看起来你有点担心孩子的认知能力，请及时寻求专家（如村医、医院医生、卫生站医生）的意见。"
+
+#. type=text
+msgctxt "text"
+msgid "Compared with children of the same age, does your child have difficulty controlling their behaviour, such as fighting, screaming, or breaking rules?"
+msgstr "与同龄儿童相比，你的孩子在控制自己行为方面是否有困难，比如打架、尖叫或破坏规则？"
+
+#. type=text
+msgctxt "text"
+msgid "It seems like you are concerned about your child's behaviour, and you might need to seek advice from an expert."
+msgstr "看起来你有点担心孩子的行为问题，请及时寻求专家（如村医、医院医生、卫生站医生）的意见。
+"
+
+#. type=text
+msgctxt "text"
+msgid "Does your child have difficulty making friends?"
+msgstr "你的孩子与人交朋友是否有困难？"
+
+#. type=text
+msgctxt "text"
+msgid "It seems that you're worried about your child's ability to interact with others, and you might need to seek advice from an expert."
+msgstr "看起来你有点担心孩子的社会交往能力，请及时寻求专家（如村医、医院医生、卫生站医生）的意见。"
+
+#. type=text
+msgctxt "text"
+msgid "How often does your child seem very anxious, nervous, worried, sad, or depressed?"
+msgstr "你的孩子多久会出现看上去非常焦虑、紧张、忧虑、沮丧或抑郁的情况？"
+
+#. type=text
+msgctxt "text"
+msgid "It seems like you're worried about how your child is feeling, and you might need to seek advice from an expert."
+msgstr "看起来你有点担心孩子的情绪状态，也许可以听听专家的意见。"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for taking the child ability test. If you have any concerns, make sure you seek opinion from an expert, e.g. a doctor."
+msgstr "感谢你参与测试。如果你有任何疑虑，请及时寻求专家（如村医、医院医生、卫生站医生）的意见。"
+
+#. type=text
+msgctxt "text"
+msgid "It looks like your child is developing well. That's great!"
+msgstr "太好了，你的孩子正在健康成长！"
+
+#. type=text
+msgctxt "text"
+msgid "Remember, if you ever need support type {HELP}."
+msgstr "如果你需要任何支持，请输入 {HELP} "
+
+#. type=text
+msgctxt "text"
+msgid "Every child grows and learns differently. This tool can help find areas where your child might need assistance. To make it work, you need to answer all 10 questions."
+msgstr "每个儿童都有自己独特的成长和学习进程，以下问题能帮助了解孩子目前的情况。请确保回答所有的问题（共10题）。"
+
+#. type=text
+msgctxt "text"
+msgid "How much is your child doing each of these things?"
+msgstr "你的孩子做以下事情的频率如何？"
+
+#. type=text
+msgctxt "text"
+msgid "Names at least 5 body parts - like nose, hand, or tummy"
+msgstr "说出至少5个身体部位，如鼻子、手或肚子"
+
+#. type=text
+msgctxt "text"
+msgid "Climbs up a ladder at a playground"
+msgstr "能爬上梯子（如游乐场滑梯上的梯子）"
+
+#. type=text
+msgctxt "text"
+msgid "Uses words like \"me\" or \"mine\""
+msgstr "使用如“我”或“我的”等此类的词语"
+
+#. type=text
+msgctxt "text"
+msgid "Jumps off the ground with two feet"
+msgstr "双脚跳离地面"
+
+#. type=text
+msgctxt "text"
+msgid "Puts 2 or more words together - like \"more water\" or \"go outside\""
+msgstr "把两个或更多的词拼在一起，如“喝水”或“去外面”"
+
+#. type=text
+msgctxt "text"
+msgid "Uses words to ask for help"
+msgstr "使用词语求助（会用词语表达希望成人帮助取到东西等）"
+
+#. type=text
+msgctxt "text"
+msgid "Names at least one colour"
+msgstr "说出至少一种颜色"
+
+#. type=text
+msgctxt "text"
+msgid "Tries to get you to watch by saying \"Look at me\""
+msgstr "说“看我”来尝试让你看向他/她"
+
+#. type=text
+msgctxt "text"
+msgid "Says his or her first name when asked"
+msgstr "当被问到时，他/她会说出自己的名字"
+
+#. type=text
+msgctxt "text"
+msgid "Draws lines"
+msgstr "画线"
+
+#. type=text
+msgctxt "text"
+msgid "Your child is growing and learning well. It is okay if they can't do everything mentioned in the questions. Most children can't do all of those things!"
+msgstr "感谢你参与测试。你的孩子成长得很好。即使孩子不能做到以上所有事情，你也不用担心。对这个年龄段孩子来说，这是正常的。"
+
+#. type=text
+msgctxt "text"
+msgid "If you ever need help, just type {HELP}."
+msgstr "如果你需要任何帮助，请输入 {HELP}。"
+
+#. type=text
+msgctxt "text"
+msgid "It seems that you could benefit from expert opinion, for example, from a doctor. Make sure to check with one to see if your child is growing and learning well."
+msgstr "感谢你参与测试。孩子目前得分较低，请你及时寻求专家的意见，比如村医、医院医生、卫生站医生，从而更准确地了解孩子的发展情况。"
+
+#. type=text
+msgctxt "text"
+msgid "Talks so other people can understand him or her most of the time"
+msgstr "大部分时间里，别人都能明白他/她说的话"
+
+#. type=text
+msgctxt "text"
+msgid "Washes and dries hands without help (an adult can help turn on the water)"
+msgstr "在没有他人帮助的情况下，自己洗手并擦干（成人可以帮忙拧开水龙头）"
+
+#. type=text
+msgctxt "text"
+msgid "Asks questions beginning with \"why\" or \"how\" - like \"Why no cookie?\""
+msgstr "用“为什么”或“怎么样”提问，如“为什么没有饼干？”"
+
+#. type=text
+msgctxt "text"
+msgid "Explains the reasons for things, like needing a sweater when it's cold"
+msgstr "解释需要某样东西的原因，如天气冷的时候需要棉袄"
+
+#. type=text
+msgctxt "text"
+msgid "Compares things - using words like \"bigger\" or \"shorter\""
+msgstr "使用如“更大”或“更短”等此类词语来比较物体"
+
+#. type=text
+msgctxt "text"
+msgid "Answers questions like \"What do you do when you are cold?\" or \"…when you are sleepy?\""
+msgstr "回答如“你冷的时候会做什么？”或“你困的时候会做什么？”等此类的问题"
+
+#. type=text
+msgctxt "text"
+msgid "Answers questions like \"What do you do when you are cold?\" or \"…when you are sleepy?"
+msgstr "回答如“你冷的时候会做什么？”或“你困的时候会做什么？”等此类的问题"
+
+#. type=text
+msgctxt "text"
+msgid "Tells you a story from a book or TV"
+msgstr "告诉你一个书上或电视上的故事"
+
+#. type=text
+msgctxt "text"
+msgid "Draws simple shapes - like a circle or a square"
+msgstr "画简单的图形，如圆形或正方形"
+
+#. type=text
+msgctxt "text"
+msgid "Says words like \"feet\" for more than one foot and \"men\" for more than one man"
+msgstr "会说如“双手”和“小朋友们”等此类词语来表示复数"
+
+#. type=text
+msgctxt "text"
+msgid "Uses words like \"yesterday\" and \"tomorrow\" correctly"
+msgstr "正确使用如“昨天”和“明天”等此类词语"
+
+#. type=text
+msgctxt "text"
+msgid "Stays dry all night"
+msgstr "整晚都不尿床"
+
+#. type=text
+msgctxt "text"
+msgid "Follows simple rules when playing a board game or card game"
+msgstr "玩棋盘或纸牌游戏时，遵循简单的规则"
+
+#. type=text
+msgctxt "text"
+msgid "Prints his or her name"
+msgstr "会工整地写自己的姓名"
+
+#. type=text
+msgctxt "text"
+msgid "Draws pictures you recognise"
+msgstr "你能看出来他/她画的东西是什么"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No Difficulty"
+msgstr "没有困难"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Some Difficulty"
+msgstr "有些困难"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "A Lot of Difficulty"
+msgstr "非常困难"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "He or She Cannot See and/or Hear"
+msgstr "他/她完全看不见，（或）听不见"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "He or She Cannot Walk"
+msgstr "他/她完全无法做到"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "He or She Cannot Take Care of Themselves"
+msgstr "他/她完全无法自理"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "He or She Cannot Be Understood by Others"
+msgstr "别人完全无法理解他/她"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "He or She Cannot Learn, Remember or Focus"
+msgstr "他/她完全无法学习新事物、记住事物或集中注意力"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "He or She Cannot Control Their Behaviour"
+msgstr "他/她完全无法控制"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "He or She Cannot Make Friends"
+msgstr "他/她完全无法与人交朋友"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Every Day"
+msgstr "每天"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Once A Week"
+msgstr "每周一次"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "About Once a Month"
+msgstr "大约每月一次"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "A Few Times Each Year"
+msgstr "每年几次"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Never"
+msgstr "从不"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Somewhat"
+msgstr "有时"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Very Much"
+msgstr "经常"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no difficulty"
+msgstr "没有困难"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "some difficulty"
+msgstr "有些困难"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "a lot of difficulty"
+msgstr "非常困难"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "he or she cannot see and/or hear"
+msgstr "他/她完全不看见、（或）听不见"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "he or she cannot walk"
+msgstr "他/她完全无法做到"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "he or she cannot take care of themselves"
+msgstr "他/她完全无法自理"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "he or she cannot be understood by others"
+msgstr "别人完全无法理解他/她"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "he or she cannot learn, remember or focus"
+msgstr "他/她完全无法学习新事物、记住事物或集中注意力"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "he or she cannot control their behaviour"
+msgstr "他/她完全无法控制"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "he or she cannot make friends"
+msgstr "他/她完全无法与人交朋友"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "every day"
+msgstr "每天"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "once a week"
+msgstr "每周一次"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "about once a month"
+msgstr "大约每月一次"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "a few times each year"
+msgstr "每年几次"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "never"
+msgstr "从不"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "somewhat"
+msgstr "有时"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "very much"
+msgstr "经常"
+

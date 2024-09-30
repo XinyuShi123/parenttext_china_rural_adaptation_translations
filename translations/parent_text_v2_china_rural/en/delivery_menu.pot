@@ -1,0 +1,1691 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "In this goal, you will gain @fields.c_n_mod new skills. You will receive a new lesson each day. Today you will begin the first skill, @results.name."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod skills in this goal. Today you will begin working on the skill @results.name."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "fail"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Let’s get started. Press NEXT to begin."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Congratulations! You have earned yourself a badge. You are now ready to begin the course. ⭐"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Click to see your new badge"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "NA"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@(text_slice(results.message_options,3))."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This course has @fields.n_goals_prog goals, which one do you want to work on first?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Please type the corresponding number in the chat:"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@results.message_options"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have seen all the goals "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are so close to completing the course! You only have one goal left,"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It’s time to pick a new parenting goal! You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You only have one goal to start"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 You have completed the course and earned yourself the Positive Parenting Trophy 🏆. Well done!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have almost completed ParentText! Only this goal remains:"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have seen all the goals and you have started @fields.n_goals_started goals. Which one would you like to complete?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "There are no goals to start"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following goal to start"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to begin this goal?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Which new goal would you like to start?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "There are no goals started"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following goal started"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Which unfinished goal would you like to complete?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "There are no goals to complete"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following goal to complete"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Great! Which unfinished goal would you like to complete?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You're almost finished with this goal! You only have 1 lesson remaining, "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That’s okay. You can only earn your Parenting Trophy when all badges are earned. When you are ready, you can return to complete this goal through the Progress Tracker in the Main Menu by typing {MENU}."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. Which skill would you like to complete?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.c_mod_started) +1). Leave this goal unfinished and select a new goal"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following skill to complete:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Which skill would you like to complete?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You haven't started to work on a goal yet."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have only started the goal"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like support on it?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can access more information at any time in the Main Menu"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What are you struggling with?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any skill yet."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Which goal do you want to review?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.goals_accessed) +1). Return to Main Menu"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any skill in this goal yet."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have only completed the following skill:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to review it?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can come back here at any time to review it."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have completed @fields.n_s_modules_compl skills within this goal. Which skill do you want to review?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.s_modules_compl) +1). Return to Main Menu"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do next?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Great, see you tomorrow!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your child?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to begin now or tomorrow?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "ParentText has @fields.n_goals_prog goals. We will begin with the first goal, @results.name. Once you complete this goal, you can choose which goal you want to work on next. Let's get started."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 You have completed the programme. Well done!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Remember, you can always return to ParentText and get extra support or review these goals. Just type {MENU}."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Click here to get your certificate"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Completing ParentText is an important achievement. Well done! New goals might be available soon. As they become available, you'll receive a notification through this channel."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @results.name. Well done!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have made great progress. Are you ready to select your next parenting goal?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "ParentText has begun. Are you ready to complete your registration?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You’re off track! Do you want to complete a previous skill or start a new skill?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to catch up and proceed to the next skill?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You're almost finished with this goal! You only have 1 unfinished skill. What would you like to do?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That’s okay. You can only earn your Parenting Badge when all skills are completed. You can return to complete this goal through the Progress Tracker in the Main Menu by typing {MENU}."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. What would you like to do?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It’s time to get started on your goal, @results.name. Are you ready?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "These messages don’t seem to be working. When you are ready to keep going, press 1. "
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Today we are taking a break from your goal, @results.name, and checking in on your progress. Press 1 on your keypad to proceed."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "*DAY @fields.curr_demo_day*"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You completed the ParentText demo. Type RESET and then START to re-start from the beginning."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What would you like change?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Here is the link!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "**************"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.n_goals_completed of @fields.n_goals_prog Goals Complete"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅✅✅"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You are currently working on the goal @results.name."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have not selected which goal to work on next."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have not completed any goal yet."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have completed the following goal:"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@(text_slice(results.message_options,3))"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have completed the following goals:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "There are no other goals to complete."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have the following outstanding goal to complete:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are off track to complete this course! You have the following outstanding goals:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are on track to complete this course! There are no new goals to start!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have the following goal to start:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have the following goals to start:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text, Images, and Videos."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text and Images Only."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You didn't provide this info."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change it?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us what's your relationship status."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Single (not in a relationship)."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Married."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Partnered but not married."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change your relationship status?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us if you are a woman or a man. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Woman."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Man."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update your gender?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is @fields.child_age year old and was born on @(date(fields.child_dob))."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that your child is @fields.child_age year old and was born on @(date(fields.child_dob))."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Would you like to update the date of birth of @fields.child_nickname?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update the date of birth of your child?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your child's nickname is @fields.child_nickname."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You didn't provide a nickname for your child."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update it?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname's gender has been updated."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Your child's gender has been updated."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You didn't tell us the gender of @fields.child_nickname."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us the gender of your child."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is a Girl."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that your child is a Girl."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is a Boy."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that your child is a Boy."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is a"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that your child is a"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in English."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in Chinese."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change your language?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What do you want to do next?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can access more information at any time in the Main Menu."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "If you do not want to receive any more messages, please type \"EXIT\"."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "If you made a mistake, please type \"BACK\" and choose another option."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for participating. If you want to return to the programme, type {START}. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Sorry I don't understand what you mean."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: @results.name. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have reached the end of this skill! 🎉 "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Click to view all goals and modules"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Finish this skill and complete my goal"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Leave this goal unfinished and select a new goal"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Give me an idea for 1-on-1 time with my child"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I’m done for today"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View another activity idea"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to Main Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Continue my progress tomorrow"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Quick"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Active"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Calm"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something for the whole family"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Now"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Tomorrow"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Remind me Later"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start new"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Remind me tomorrow"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Finish this skill and earn my badge"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete unfinished skills to earn my badge"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes!"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "1"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change your profile"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Stop receiving the messages"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Main Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Media Settings"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Gender"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Relationship Status"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Child's Date of Birth"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Child's Nickname"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Child's Gender"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Track My Progress"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Emergencies"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Settings"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Activities"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "How to Use ParentText"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View all goals and modules"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Troubleshooting"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review Completed Skills"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Goals Achieved"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Incomplete Goals"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Goals to Start"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete this outstanding goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete another outstanding goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start the new goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start a new goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change other profile info"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get more help with this goal"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get help with a different challenge"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to the Main Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "BACK"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review a skill from a different goal"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review another skill from this goal"
+msgstr ""
+
+#. type=variables
+msgctxt "variables"
+msgid "@results.name"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "leave this goal unfinished and select a new goal"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "finish this skill and complete my goal"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i’m done for today"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "give me an idea for 1-on-1 time with my child"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view another activity idea"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go to main menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "continue my progress tomorrow"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something quick"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something active"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something calm"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something for the whole family"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "now"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "tomorrow"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "remind me later"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start new"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "remind me tomorrow"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "finish this skill and earn my badge"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete unfinished skills to earn my badge"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes!"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change your profile"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop receiving the messages"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to main menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your media settings"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your gender"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your relationship status"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your child's date of birth"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your child's nickname"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your child's gender"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "track my progress"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "emergencies"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "settings"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "activities"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "how to use parenttext"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view all goals and modules"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "troubleshooting"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review completed skills"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view goals achieved"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view incomplete goals"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view goals to start"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete this outstanding goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete another outstanding goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start the new goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start a new goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep ok"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change other profile info"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get more help with this goal"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get help with a different challenge"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to the main menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "back"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review a skill from a different goal"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review another skill from this goal"
+msgstr ""
