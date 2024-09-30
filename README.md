@@ -1,0 +1,1 @@
+# parenttext_china_rural_adaptation_translations
