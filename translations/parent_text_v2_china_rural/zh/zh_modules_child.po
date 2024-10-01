@@ -6613,8 +6613,8 @@ msgstr "😔 别不好意思跟孩子讨论侵害问题。"
 
 #. type=text
 msgctxt "text"
-msgid "❗But there are some simple things that can help them understand when it is not OK to be touched, and what they should do if something ever happens. "
-msgstr "❗ 孩子应该学会，什么时候不能被触碰。"
+msgid "💡 But there are some simple things that can help them understand when it is not OK to be touched, and what they should do if something ever happens. "
+msgstr "💡 孩子应该学会，什么时候不能被触碰。"
 
 #. type=text
 msgctxt "text"
