@@ -135,8 +135,8 @@ msgstr "你确定不想再收到这些消息吗？如果你不想接收更多信
 
 #. type=text
 msgctxt "text"
-msgid "If you ever return to participate in the programme, type {START}. "
-msgstr "如果你想回来继续学习，请输入 {START} 。 "
+msgid "If you ever return to participate in the programme, type \"HELLO\". "
+msgstr "如果你想回来继续学习，请输入 你好 。 "
 
 #. type=text
 msgctxt "text"
