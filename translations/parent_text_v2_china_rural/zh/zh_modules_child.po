@@ -6608,8 +6608,8 @@ msgstr "恭喜你！🎉你已经学会了如何和你的孩子一起解决问�
 
 #. type=text
 msgctxt "text"
-msgid "💡 It is normal to feel uncomfortable about talking to children about abuse. "
-msgstr "💡 别不好意思跟孩子讨论侵害问题。"
+msgid "😔 It is normal to feel uncomfortable about talking to children about abuse. "
+msgstr "😔 别不好意思跟孩子讨论侵害问题。"
 
 #. type=text
 msgctxt "text"
