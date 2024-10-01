@@ -6399,7 +6399,7 @@ msgstr "管理孩子的行为确实很难！😣 "
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Hitting and yelling does not cause lasting change - and can damage your relationship with @fields.child_nickname over time. ❗ "
-msgstr "打骂不是长久之计，还会损害你和@fields.child_nickname的关系。❗"
+msgstr "打骂不是长久之计，还会损害你和@fields.child_nickname 的关系。❗"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
