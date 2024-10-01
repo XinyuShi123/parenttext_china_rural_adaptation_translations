@@ -130,8 +130,8 @@ msgstr "太棒了！让我们开始吧。"
 
 #. type=text
 msgctxt "text"
-msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type {STOP}. If you made a mistake, please press BACK and choose another option."
-msgstr "你确定不想再收到这些消息吗？如果你不想接收更多信息，请输入 {STOP} 。如果你误选了，请点击“返回”并选择其他选项。"
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type \"NO\". If you made a mistake, please press BACK and choose another option."
+msgstr "你确定不想再收到这些消息吗？如果你不想接收更多信息，请输入 “否” 。如果你误选了，请点击“返回”并选择其他选项。"
 
 #. type=text
 msgctxt "text"
