@@ -1279,7 +1279,7 @@ msgstr "你想过要好好善待自己吗？💚 "
 #. type=text
 msgctxt "text"
 msgid "Imagine you had a friend who was feeling bad about making a big mistake. 😣 How would you talk to them?"
-msgstr "善待自己，才能善待 @fields.child_nickname和家人！☀️"
+msgstr "善待自己，才能善待 @fields.child_nickname 和家人！☀️"
 
 #. type=text
 msgctxt "text"
