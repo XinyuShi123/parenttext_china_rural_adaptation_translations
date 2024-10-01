@@ -3642,7 +3642,7 @@ msgid "Home activity! ⭐ Invite @fields.child_nickname to play with you today E
 msgstr ""
 "家庭练习！⭐\n"
 "\n"
-"和@fields.child_nickname一起玩游戏，比如保龄球游戏：\n"
+"和@fields.child_nickname 一起玩游戏，比如保龄球游戏：\n"
 "\n"
 "在地上摆几个塑料瓶。和孩子一起沿着地面滚球，把瓶子撞倒。\n"
 "\n"
