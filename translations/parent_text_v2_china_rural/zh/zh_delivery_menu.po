@@ -429,6 +429,14 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "Today we are taking a break and checking in on your progress. Press 1 on your keypad to proceed."
+msgstr "今天，我们稍作休息，先来查看一下你的进展。
+
+点击"1"以继续。"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "*DAY @fields.curr_demo_day*"
 msgstr "*DAY @fields.curr_demo_day*"
 
