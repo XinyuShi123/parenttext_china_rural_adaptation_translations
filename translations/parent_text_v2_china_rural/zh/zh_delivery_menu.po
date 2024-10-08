@@ -14,7 +14,7 @@ msgstr ""
 "PO-Revision-Date: 2024-05-22 16:38\n"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers.
 msgctxt "text"
 msgid "In this goal, you will gain @fields.c_n_mod new skills. You will receive a new lesson each day. Today you will begin the first skill, @results.name."
 msgstr ""
