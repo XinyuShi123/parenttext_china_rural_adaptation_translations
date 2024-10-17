@@ -2785,12 +2785,12 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "⭐ Learning about numbers, shapes, and groups will help your child understand basic maths. "
-msgstr "⭐ 在家学习数字、形状和分类，能帮助孩子了解数学。 "
+msgstr "⭐  学习数字、形状和分类，帮助孩子了解数学概念。 "
 
 #. type=text
 msgctxt "text"
 msgid "🎓 This will prepare them to succeed in school."
-msgstr "🎓 也为学校学习打下基础！"
+msgstr "🎓 为学校学习打下基础！"
 
 #. type=text
 msgctxt "text"
@@ -2826,7 +2826,7 @@ msgstr "数字和形状无处不在！🔶🌷🔵"
 msgctxt "text"
 msgid "You can use what is around you and your daily routines to talk to your child about maths. ⏰ This will help prepare them for success. ⭐"
 msgstr ""
-"多利用身边的事物，来教孩子数字和形状。⏰ \n"
+"利用身边的事物，教孩子数学。⏰ \n"
 "\n"
 "这将为他们取得好成绩打下基础。⭐"
 
@@ -3282,17 +3282,25 @@ msgstr "🔷陪孩子一起学习形状吧！形状无处不在，你可以找�
 #. type=text
 msgctxt "text"
 msgid "Home activity! ⭐ Can you do some counting with your child today?"
-msgstr "家庭练习！⭐你今天有空与孩子一起数数吗？"
+msgstr "家庭练习！🌟\n"
+"\n"
+"和孩子一起玩玩串珠子游戏吧！\n"
+"\n"
+"准备一条绳子和一些珠子，将珠子逐个串到绳子上，数一数有几个珠子。💙\n"
+"\n"
+"可以对孩子说，“现在你串起了一个珠子，要串第二个珠子啦”，“真棒，你已经串起了三个珠子”。\n"
+"\n"
+"你今天有时间试一试吗？⏰"\n"
 
 #. type=text
 msgctxt "text"
 msgid "Great! 💙 Counting with your child will introduce them to numbers!"
-msgstr "太棒啦！💙跟孩子数数，能帮他们开始认识数字！"
+msgstr "太棒啦！💙跟孩子数数，能帮他们认识数字！"
 
 #. type=text
 msgctxt "text"
 msgid "That's OK! If you don't have time today, try to count with your child tomorrow. This will help your child learn!"
-msgstr "没关系！如果你今天没时间，试着明天抽点时间陪孩子数数吧。这有助于提升他们的数学能力！"
+msgstr "没关系！试着明天抽点时间陪孩子数数，提升他们的数学能力！"
 
 #. type=text
 msgctxt "text"
