@@ -2827,6 +2827,7 @@ msgctxt "text"
 msgid "You can use what is around you and your daily routines to talk to your child about maths. ⏰ This will help prepare them for success. ⭐"
 msgstr ""
 "多利用身边的事物，来教孩子数字和形状。⏰ \n"
+"\n"
 "这将为他们取得好成绩打下基础。⭐"
 
 #. type=text
