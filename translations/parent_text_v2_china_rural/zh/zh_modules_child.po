@@ -8571,6 +8571,11 @@ msgstr "非常好，你已经完成了“规划育儿预算储蓄”四个步骤
 
 #. type=text
 msgctxt "text"
+msgid "In this goal, we are learning about the four steps to building a parenting budget. 💰"
+msgstr "今天我们继续学习，如何规划育儿预算储蓄。💰"
+
+#. type=text
+msgctxt "text"
 msgid "2️⃣ Today, we are learning about step 2: talking about monthly parenting expenses."
 msgstr "第2️⃣步：讨论每月的家庭育儿开支。"
 
