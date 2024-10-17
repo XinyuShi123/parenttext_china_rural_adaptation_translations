@@ -8718,7 +8718,7 @@ msgstr "想想你存钱的原因："
 #. type=text
 msgctxt "text"
 msgid "😔Preparing for emergencies"
-msgstr "😔应对可能出现的紧急情况"
+msgstr "😔应对可能出现的紧急情况."
 
 #. type=text
 msgctxt "text"
