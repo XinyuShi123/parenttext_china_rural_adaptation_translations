@@ -3256,12 +3256,12 @@ msgstr "👂 读故事时加入情感固然有趣，但是如果能通过提问�
 #. type=text
 msgctxt "text"
 msgid "🌷 Children don’t just learn maths in school. "
-msgstr "🌷 孩子们不是只在学校里才能学数学。"
+msgstr "🌷 "
 
 #. type=text
 msgctxt "text"
 msgid "💙 They can learn maths in lots of ways - and you can help!"
-msgstr "💙 他们可以在任何地方学数学，并且你也能帮上忙！"
+msgstr "💙 孩子可以在任何地方学数学，并且你也能帮忙！"
 
 #. type=text
 msgctxt "text"
