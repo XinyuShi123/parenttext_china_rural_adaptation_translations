@@ -2926,7 +2926,7 @@ msgstr "太棒啦！💙跟孩子数数，能帮他们认识数字！"
 #. type=text
 msgctxt "text"
 msgid "That's OK! If you don't have time today, try to involve your child tomorrow. Activities that use numbers and talking about amounts of things will help your child learn!"
-msgstr "没关系！试着明天抽点时间陪孩子数数，提升他们的数学能力！"
+msgstr "没关系！那就试着明天和孩子一起做个数字活动吧。这对提升孩子的数学能力很重要哦！🤩"
 
 #. type=text
 msgctxt "text"
@@ -4615,7 +4615,7 @@ msgstr "💙 负面的指令会让人感到不舒服，比如“不准这么做�
 #. type=text
 msgctxt "text"
 msgid "{F3_DAUGTHER_4} is playing with the handphone on the floor."
-msgstr "如何发出积极指令？让我们看看，妈妈是怎么让 {F3_DAUGTHER_4} 停止玩手机，准备上床睡觉的。"
+msgstr "如何发出积极指令？让我们看看，妈妈是怎么让{F3_DAUGTHER_4}停止玩手机，准备上床睡觉的。"
 
 #. type=text
 msgctxt "text"
@@ -5623,12 +5623,14 @@ msgctxt "text"
 msgid "▶️ Press play to learn 4️⃣ tips for redirecting your child's behaviour. "
 msgstr "如何像漫画里的爷爷一样，引导孩子呢？\n"
 "\n"
-"4️⃣个小贴士，看看如何转移孩子注意力，“防患于未然”！ "
+"4️⃣个小贴士，看看如何转移孩子注意力，“防患于未然”！"
 
 #. type=text
 msgctxt "text"
 msgid "4️⃣ There are four steps to redirecting behaviour: BE CALM, QUICK, CLEAR, and POSITIVE."
-msgstr "转移注意力分为4️⃣步：保持冷静、迅速转移注意力、明确指令和保持积极"
+msgstr "如何像漫画里的爷爷一样，引导孩子呢？\n"
+"\n"
+"4️⃣个小贴士，看看如何转移孩子注意力，“防患于未然”！"
 
 #. type=text
 msgctxt "text"
@@ -6001,7 +6003,7 @@ msgid "Home activity! ⭐ Find one positive thing @fields.child_nickname does to
 msgstr ""
 "家庭练习！⭐\n"
 "\n"
-"找出 @fields.child_nickname 今天做的好事，并表扬孩子。n"
+"找出 @fields.child_nickname 今天做的好事，并表扬孩子。\n"
 "\n"
 "如果孩子表现出消极的、寻求关注的行为，试着转移注意力。\n"
 "\n"
@@ -6051,7 +6053,7 @@ msgstr "当我生孩子气时，我应该表现出来我很生气，这样他们
 #. type=text
 msgctxt "text"
 msgid "💛 It can be very difficult when your child is misbehaving, but you should try to manage your own stress and control your own anger before doing anything. "
-msgstr "💛 孩子的行为可能让人抓狂，但你要先管理你自己的情绪，控制怒火"
+msgstr "💛 孩子的行为可能让人抓狂，但你要先管理你自己的情绪，控制怒火。"
 
 #. type=text
 msgctxt "text"
@@ -6066,7 +6068,7 @@ msgstr "当孩子让你生气时，可以试着转移注意力，或者选择性
 #. type=text
 msgctxt "text"
 msgid "{F1_MOTHER} has her hands full and having two of her children fighting over a phone isn’t helping. Let’s see how she’s managing her anger:"
-msgstr ""{F1_MOTHER}忙得不可开交，而她的两个孩子正在为了一部手机吵架，真是火上浇油。让我们来看看，她是如何控制愤怒情绪的："
+msgstr "{F1_MOTHER}忙得不可开交，而她的两个孩子正在为了一部手机吵架，真是火上浇油。让我们来看看，她是如何控制愤怒情绪的："
 
 #. type=text
 msgctxt "text"
