@@ -8494,6 +8494,7 @@ msgstr "1️⃣ 确定必需品"
 msgctxt "text"
 msgid "📝 With your family, make a list of things that you cannot parent without. Things that are important for your children to survive."
 msgstr "📝和家人一起讨论，有哪些物品是育儿中不可或缺的，对孩子健康成长有重要作用？"
+"\n"
 
 #. type=text
 msgctxt "text"
