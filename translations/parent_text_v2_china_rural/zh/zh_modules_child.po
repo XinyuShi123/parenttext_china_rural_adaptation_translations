@@ -7157,27 +7157,25 @@ msgctxt "text"
 msgid "To keep @fields.child_nickname safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know."
 msgstr "漫画里的家长还可以做些什么，让孩子更有安全意识？\n"
 "\n"
-"保护 @fields.child_nickname 日常安全，"
-"\n"
+"保护 @fields.child_nickname 日常安全，有这4️⃣个步骤。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "4️⃣Here are four steps to help you keep @fields.child_nickname safe:"
-msgstr "和 @fields.child_nickname  试试这4️⃣个步骤："
+msgstr "和  @fields.child_nickname  一起试试吧："
 
 #. type=text
 msgctxt "text"
 msgid "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know."
 msgstr "漫画里的家长还可以做些什么，让孩子更有安全意识？\n"
-"n"
-"保护孩子日常安全，\n"
-"n"
+"\n"
+"保护孩子日常安全，有这4️⃣个步骤。"
 
 #. type=text
 msgctxt "text"
 msgid "4️⃣Here are four steps to help you keep your child safe:"
-msgstr "试试这4️⃣个步骤："
+msgstr "和孩子一起试试吧："
 
 #. type=text
 msgctxt "text"
