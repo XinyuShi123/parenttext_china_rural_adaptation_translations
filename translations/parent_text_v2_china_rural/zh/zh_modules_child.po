@@ -880,7 +880,7 @@ msgstr "如何共度亲子时光？看看妈妈{F1_MOTHER}怎么和女儿{F1_DAU
 #. type=text
 msgctxt "text"
 msgid "That's OK! If you don't have time today, set some time aside tomorrow."
-msgstr "没关系！如果你今天没时间，那就明天再试试。"
+msgstr "没关系！如果今天没时间，那就明天试试吧！"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
