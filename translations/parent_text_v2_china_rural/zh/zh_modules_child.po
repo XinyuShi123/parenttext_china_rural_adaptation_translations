@@ -6006,7 +6006,7 @@ msgid "Home activity! ⭐ Find one positive thing @fields.child_nickname does to
 msgstr ""
 "家庭练习！⭐\n"
 "\n"
-"找出 @fields.child_nickname 今天做的好事，并表扬孩子。\n"
+"找出 @fields.child_nickname 今天做得好的事，并表扬孩子。\n"
 "\n"
 "如果孩子表现出消极的、寻求关注的行为，试着转移注意力。\n"
 "\n"
