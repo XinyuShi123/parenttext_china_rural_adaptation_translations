@@ -61,7 +61,7 @@ msgstr "*听从指令*"
 #. type=text
 msgctxt "text"
 msgid "👂 Play a game in which your child listens to and tries to remember strings of instructions."
-msgstr "👂  和孩子玩一个游戏，孩子需记住一连串指令。这个游戏有助于他们在学校和日常生活。"
+msgstr "👂 和孩子玩一个游戏，孩子需记住一连串指令。这个游戏有助于他们在学校和日常生活。"
 
 #. type=text
 msgctxt "text"
