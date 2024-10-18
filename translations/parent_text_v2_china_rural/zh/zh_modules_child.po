@@ -1846,9 +1846,7 @@ msgctxt "text"
 msgid "Try to talk about feelings with @fields.child_nickname at least 3 different times today.For example, “I am happy to see you, @fields.child_nickname,” or “You look sad that playtime is over, @fields.child_nickname.” You can also help your child learn about emotions by showing facial expressions - make it into a game!"
 msgstr "和 @fields.child_nickname 读绘本《罗伯生气了》。\n"
 "\n"
-"用“生气、开心”等表情和动作，跟 @fields.child_nickname 解释绘本里的情绪。比如，生气就皱眉、叉腰，开心就微笑、拥抱。\n"
-"\n"
-"你今天能试试看吗？"
+"用“生气、开心”等表情和动作，跟 @fields.child_nickname 解释绘本里的情绪。比如，生气就皱眉、叉腰，开心就微笑、拥抱。"
 
 #. type=text
 msgctxt "text"
